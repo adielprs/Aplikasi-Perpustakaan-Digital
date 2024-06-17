@@ -1,0 +1,21 @@
+.header
+{
+  background-image: url(image/books-bookstore-book-reading-159711.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1
+{
+    color: white;
+    font-size: 53px;
+    margin-top: 150px;
+}
+
+img
+{
+    margin-top: 150px;
+    height: 200px;
+    width: 200px;
+}
